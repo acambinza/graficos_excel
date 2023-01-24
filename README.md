@@ -31,4 +31,14 @@ Exemplos de Gráficos usados no MS Excel
 - Os gráficos de funil mostram os valores em vários estágios de um processo. Por exemplo, você poderia usar um gráfico de funil para mostrar o número de clientes potenciais para vendas em cada estágio em um pipeline de vendas. Normalmente, os valores diminuem gradualmente, permitindo que as barras se pareçam com um funil.
 
 
+## Gráfico de Dispersão
+- O diagrama de dispersão é uma ferramenta representada em um gráfico, representada por um eixo horizontal e outro vertical. Dessa forma, é fácil identificar visualmente a correlação entre dois pontos e identificar diferentes tipos de correlação de causa e efeito entre eles.
+
+- 
+
+
+
+
+
+
 
